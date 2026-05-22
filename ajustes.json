@@ -1,0 +1,35 @@
+{
+    "ruta_cuadrantes": "C:/Users/Bachir/Desktop/Proyecto_Loreto/cuadrantes",
+    "email_remitente": "bachir2404@gmail.com",
+    "pass_remitente": "klco ynqo erik dfef",
+    "personal": [
+        {
+            "empleo": "Sdo.",
+            "nombre": "José Manuel Sotillo San Román",
+            "firma": "firmas/firma_josé_manuel_sotillo_san_román.png"
+        },
+        {
+            "empleo": "Sdo.",
+            "nombre": "Bachir Boudlal Abdelkader",
+            "firma": "firmas/firma_bachir_boudlal_abdelkader.png"
+        },
+        {
+            "empleo": "Sdo.",
+            "nombre": "hkhkhkh",
+            "firma": "firmas/firma_hkhkhkh.png"
+        },
+        {
+            "empleo": "Sdo.",
+            "nombre": "wwe",
+            "firma": "firmas/firma_.png"
+        }
+    ],
+    "jefes": [
+        {
+            "nombre": "Jonathan Rafael Feliz Suárez",
+            "email": "bachir2404@gmail.com"
+        }
+    ],
+    "ruta_partes": "C:/Users/Bachir/Desktop/Proyecto_Loreto/Partes_Generados",
+    "pdf_cuadrante": "C:/Users/Bachir/Desktop/Proyecto_Loreto/cuadrantes/cuadrante_mayo_2026.pdf"
+}
